@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WAM</string>
+    <string name="manga">manga</string>
+    <string name="anime">anime</string>
+    <string name="judul_anime">Judul Anime</string>
+    <string name="judul_manga">judul_manga</string>
+</resources>
